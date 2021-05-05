@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-//your code goes here
+//your code goes here 
+//
 public class BinaryConverter {
 
     public static class Converter {
